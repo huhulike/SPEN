@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: >
+  If you find this repository useful for your research or publications,
+  please consider citing our paper.
+
+title: "SPEN: Sub-Pixel Position Error Estimation Network for Multi-Modal Image Matching"
+
+authors:
+  - family-names: Hu
+    given-names: Maoqing
+  - family-names: Sun
+    given-names: Bin
+  - family-names: Li
+    given-names: Shutao
+  - family-names: Ma
+    given-names: Jiayi
+
+journal: "IEEE Transactions on Circuits and Systems for Video Technology"
+year: 2026
+doi: 10.1109/TCSVT.2026.3656936
+
+preferred-citation:
+  type: article
+  title: "SPEN: Sub-Pixel Position Error Estimation Network for Multi-Modal Image Matching"
+  authors:
+    - family-names: Hu
+      given-names: Maoqing
+    - family-names: Sun
+      given-names: Bin
+    - family-names: Li
+      given-names: Shutao
+    - family-names: Ma
+      given-names: Jiayi
+  journal: "IEEE Transactions on Circuits and Systems for Video Technology"
+  year: 2026
+  doi: 10.1109/TCSVT.2026.3656936
