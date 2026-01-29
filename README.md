@@ -1,6 +1,12 @@
 # SPEN
 The implementation of "SPEN: Sub-Pixel Position Error Estimation Network for Multi-Modal Image Matching"
 
+## Testing
+
+To test the algorithm on images, run:
+```bash
+python test_img.py
+
 
 ## Citation
 
